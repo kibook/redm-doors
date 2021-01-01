@@ -50,6 +50,13 @@ local Doors = {
 	3277501452, -- Blackwater tailor, dressing room
 	3208189941, -- Tumbleweed tailor, dressing room
 	3142465793, -- Wallace Station general store, dressing room
+
+	1962482653, -- River boat, upper deck vault room, east door
+	2181772801, -- River boat, upper deck vault room, west door
+	1275379652, -- River boat, upper deck cabin, east door
+	4267779198, -- River boat, upper deck cabin, west door
+	1509055391, -- River boat, upper deck cabin, south doors, right door
+	2811033299, -- River boat, upper deck cabin, south doors, left door
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
