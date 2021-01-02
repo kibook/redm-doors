@@ -57,6 +57,8 @@ local Doors = {
 	4267779198, -- River boat, upper deck cabin, west door
 	1509055391, -- River boat, upper deck cabin, south doors, right door
 	2811033299, -- River boat, upper deck cabin, south doors, left door
+
+	586229709,  -- Saint Denis doctor, door between store and waiting room
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
