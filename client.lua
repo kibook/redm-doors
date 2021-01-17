@@ -61,6 +61,9 @@ local Doors = {
 	586229709,  -- Saint Denis doctor, door between store and waiting room
 
 	1707768866, -- Galarie Laurent, manager's office
+
+	1657401918, -- Annesburg sheriff's office, left cell
+	1502928852, -- Annesburg sheriff's office, right cell
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
