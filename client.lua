@@ -64,6 +64,8 @@ local Doors = {
 
 	1657401918, -- Annesburg sheriff's office, left cell
 	1502928852, -- Annesburg sheriff's office, right cell
+
+	202296518,  -- Six Point Cabin
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
