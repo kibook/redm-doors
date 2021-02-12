@@ -27,6 +27,8 @@ local Doors = {
 	3483244267, -- Rhodes bank, vault
 	--3142122679, -- Rhodes bank, back entrance
 	
+	2446974165, -- Rhodes saloon, bath room door
+
 	340151973,  -- Saint Denis theatre, right door
 	544106233,  -- Saint Denis theatre, left door
 	1457151494, -- Saint Denis theatre, behind counter, right door
