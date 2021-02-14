@@ -72,6 +72,9 @@ local Doors = {
 	3782668011, -- Aberdeen Pig Farm south door
 
 	1423877126, -- Tumbleweed bath room door
+
+	553939906,  -- Shady Belle, upstairs, right door
+	357129292,  -- Shady Belle, upstairs, left door
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
