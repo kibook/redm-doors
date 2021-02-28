@@ -77,6 +77,9 @@ local Doors = {
 	357129292,  -- Shady Belle, upstairs, left door
 
 	1523300673, -- Blackwater bath, north door
+
+	1915401053, -- Saint Denis tram station, east counter door
+	187523632,  -- Saint Denis tram station, west counter door
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
