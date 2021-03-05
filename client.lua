@@ -72,6 +72,7 @@ local Doors = {
 	3782668011, -- Aberdeen Pig Farm south door
 
 	1423877126, -- Tumbleweed bath room door
+	3013877606, -- Tumbleweed bath, side room door
 
 	553939906,  -- Shady Belle, upstairs, right door
 	357129292,  -- Shady Belle, upstairs, left door
