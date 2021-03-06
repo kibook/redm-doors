@@ -6,6 +6,7 @@ local Doors = {
 	3718620420, -- Valentine bank, door behind tellers
 	2343746133, -- Valentine bank, door to backrooms
 	2307914732, -- Valentine bank, back door
+	334467483,  -- Valentine bank, door to hall in vault antechamber
 
 	1733501235, -- Saint Denis bank, west entrance, right door
 	2158285782, -- Saint Denis bank, west entrance, left door
