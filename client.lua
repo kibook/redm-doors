@@ -82,6 +82,9 @@ local Doors = {
 
 	1915401053, -- Saint Denis tram station, east counter door
 	187523632,  -- Saint Denis tram station, west counter door
+
+	2984805596, -- Tumbleweed jail, left cell door
+	2677989449, -- Tumbleweed jail, right cell door
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
