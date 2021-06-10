@@ -65,8 +65,8 @@ local doors = {
 
 	[1707768866] = 0, -- Galarie Laurent, manager's office
 
-	[1657401918] = 0, -- Annesburg sheriff's office, left cell
-	[1502928852] = 0, -- Annesburg sheriff's office, right cell
+	[1657401918] = 1, -- Annesburg sheriff's office, left cell
+	[1502928852] = 1, -- Annesburg sheriff's office, right cell
 
 	[202296518]  = 0, -- Six Point Cabin
 
@@ -83,10 +83,25 @@ local doors = {
 	[1915401053] = 0, -- Saint Denis tram station, east counter door
 	[187523632]  = 0, -- Saint Denis tram station, west counter door
 
-	[2984805596] = 0, -- Tumbleweed jail, left cell door
-	[2677989449] = 0, -- Tumbleweed jail, right cell door
+	[831345624]  = 1, -- Tumbleweed jail cell
+	[2984805596] = 1, -- Tumbleweed jail, left cell door
+	[2677989449] = 1, -- Tumbleweed jail, right cell door
 
 	[1711767580] = 1, -- Saint Denis jail cell
+
+	[193903155]  = 1, -- Valentine jail cell
+	[295355979]  = 1, -- Valentine jail cell
+
+	[1878514758] = 1, -- Rhodes jail cell
+
+	[2514996158] = 1, -- Blackwater jail cell
+	[2167775834] = 1, -- Blackwater jail cell
+
+	[902070893]  = 1, -- Strawberry jail cell
+	[1207903970] = 1, -- Strawberry jail cell
+
+	[4016307508] = 1, -- Armadillo jail cell
+	[4235597664] = 1, -- Amradillo jail cell
 }
 
 function AddDoorToSystemNew(doorHash, p1, p2, p3, threadId, p5, p6)
